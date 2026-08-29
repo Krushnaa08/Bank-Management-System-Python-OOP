@@ -43,4 +43,4 @@ Bank-Management-System-Python-OOP/
 
 ## Author
 
-Abdul Salam
+Krushna Salunkhe
